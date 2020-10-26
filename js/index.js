@@ -4,7 +4,7 @@ let atras=document.getElementById('atras')
  let play=document.getElementById('play')
  let title=document.getElementById('TitleMusica')
 let audio=document.getElementById('audio')
-let canciones=['cancion/BlueBird.mp3','cancion/Diviners Savannah NCS.mp3','cancion/Marin Hoxha  Eternal NCS.mp3','cancion/Nekozilla NCS.mp3','cancion/Dirty Palm - Oblivion NCS.mp3','cancion/adventure NCS.mp3','cancion/Jordan Schor Home NCS.mp3']
+let canciones=['cancion/BlueBird.mp3','cancion/Caramelldansen.mp3','cancion/Marin Hoxha  Eternal NCS.mp3','cancion/Nekozilla NCS.mp3','cancion/Dirty Palm - Oblivion NCS.mp3','cancion/adventure NCS.mp3','cancion/Jordan Schor Home NCS.mp3']
 let logo=document.getElementById('logo')
 let arrImg=['imagen/logo1.jpg','imagen/logo2.jpg','imagen/logo3.jpg','imagen/logo4.jpg','imagen/logo5.jpg',
  'imagen/logo6.jpg','imagen/logo7.jpg']
